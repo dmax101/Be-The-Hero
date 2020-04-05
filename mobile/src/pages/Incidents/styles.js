@@ -19,7 +19,7 @@ export default StyleSheet.create({
     headerTextBold: {
         fontWeight: 'bold'
     },
-    titil: {
+    title: {
         fontSize: 30,
         marginBottom: 16,
         marginTop: 48,
